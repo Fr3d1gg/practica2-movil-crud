@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica2CRUD</string>
+    <string name="titulo_main">Práctica 2 - CRUD REST</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Registrarse</string>
+
+    <string name="titulo_login">Inicio de sesión</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_entrar">Entrar</string>
+
+    <string name="titulo_registro">Registro de usuario</string>
+    <string name="hint_confirmar_password">Confirmar contraseña</string>
+    <string name="btn_registrarse">Registrarse</string>
+</resources>
