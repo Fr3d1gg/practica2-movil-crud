@@ -1,11 +1,8 @@
 # 📱 Práctica 2 - CRUD REST (Android + Flask)
 
-## 👤 Datos del alumno
-- **Nombre:** [TU NOMBRE COMPLETO]
-- **Boleta:** [TU BOLETA]
+- **Nombre:** Jose Alfredo Ramirez Aguirre
 - **Materia:** Desarrollo de Aplicaciones Móviles
-- **Profesor:** [NOMBRE DEL PROFESOR]
-- **Fecha:** [FECHA DE ENTREGA]
+
 
 ---
 
@@ -18,19 +15,6 @@ Se implementó autenticación mediante JWT para garantizar la seguridad en las s
 
 ---
 
-## ⚙️ Tecnologías utilizadas
-
-### 📱 Frontend (Android)
-- Kotlin
-- Android Studio
-- Retrofit
-
-### 🖥️ Backend
-- Python
-- Flask
-- JWT
-
----
 
 ## 🔐 Seguridad implementada
 
@@ -44,27 +28,27 @@ Se implementó autenticación mediante JWT para garantizar la seguridad en las s
 ## 📸 Evidencia de ejecución
 
 ### 🔹 Pantalla principal (inicio de la app)
-![Pantalla principal](./screenshots/img6.jpeg)
+![Pantalla principal](./Screenshots/img6.jpeg)
 
 ---
 
 ### 🔹 Registro de usuario
-![Registro](./screenshots/img7.jpeg)
+![Registro](./Screenshots/img7.jpeg)
 
 ---
 
 ### 🔹 Usuario registrado exitosamente
-![Registro exitoso](./screenshots/img5.jpeg)
+![Registro exitoso](./Screenshots/img5.jpeg)
 
 ---
 
 ### 🔹 Inicio de sesión
-![Login](./screenshots/img4.jpeg)
+![Login](./Screenshots/img4.jpeg)
 
 ---
 
 ### 🔹 Login exitoso
-![Login exitoso](./screenshots/img3.jpeg)
+![Login exitoso](./Screenshots/img3.jpeg)
 
 ---
 
@@ -74,12 +58,12 @@ Se implementó autenticación mediante JWT para garantizar la seguridad en las s
 ---
 
 ### 🔹 Actualizar nota
-![Actualizar nota](./screenshots/img2.jpeg)
+![Actualizar nota](./Screenshots/img2.jpeg)
 
 ---
 
 ### 🔹 Eliminar nota
-![Eliminar nota](./screenshots/img1.jpeg)
+![Eliminar nota](./Screenshots/img1.jpeg)
 
 ---
 
